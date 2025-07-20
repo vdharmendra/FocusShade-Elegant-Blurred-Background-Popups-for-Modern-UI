@@ -37,12 +37,12 @@ You can easily update:
 
 
 <span>👉 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/230749781/FocusShade" target="_blank" >
 <img src="./FocusShade.gif" width="575px"/>
 </a>
 
 <span>👉 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/230749781/FocusShade" target="_blank" >
 <img src="./VeilView-lp1.png" width="275px"/>
 <img src="./VeilView-lp2.png" width="275px"/>
 </a>
